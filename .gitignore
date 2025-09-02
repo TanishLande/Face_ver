@@ -1,0 +1,11 @@
+# Large files
+archive.zip
+*.zip
+training_checkpoints/
+lfw-deepfunneled/
+lfw/
+application_data/
+data/
+__pycache__/
+*.pyc
+.venv/
