@@ -9,19 +9,18 @@ This project implements a **Siamese Network** to determine whether two faces bel
 
 face-verification-system/
 │
-├── data/ # Dataset folder
-│ ├── anchor/ # Anchor images (input images from webcam)
-│ ├── positive/ # Positive images (same person as anchor)
-│ └── negative/ # Negative images (different people)
+├── data/                          # Dataset folder
+│   ├── anchor/                    # Anchor images (input images from webcam)
+│   ├── positive/                  # Positive images (same person as anchor)
+│   └── negative/                  # Negative images (different people)
 │
-├── training_checkpoints/ # Saved model checkpoints during training
-│ └── ckpt-5 # Example checkpoint file
+├── training_checkpoints/          # Saved model checkpoints during training
 │
-├── file.py # Script to create dataset folders
-├── train.py # Script to train the face verification model
-├── test.py # Script to test the trained model
-├── live_test.py # Script for real-time face verification
-└── README.md # Project documentation
+├── file.py                        # Script to create dataset folders
+├── train.py                       # Script to train the face verification model
+├── test.py                        # Script to load trained model and test performance
+├── live_test.py                   # Script for real-time face verification
+└── README.md                      # Project documentation
 
 
 
