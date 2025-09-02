@@ -206,6 +206,7 @@ matplotlib>=3.5.0
 - OpenCV community for computer vision tools
 - [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) - Research paper that inspired this implementation
 - Research papers on Siamese Networks for face verification
+- Dataset : [https://www.kaggle.com/datasets/jessicali9530/lfw-dataset] - download
 
 ---
 
