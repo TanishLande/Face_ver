@@ -1,1 +1,0 @@
-In this file you can add all your image which would be as the input image for the verification 
